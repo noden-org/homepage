@@ -1,0 +1,8 @@
+# Noden robots file
+
+User-agent: *
+
+Disallow: /README.md
+Disallow: /LICENSE
+
+Sitemap: https://www.noden.org/sitemap.xml
